@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Nadezhda18/qa-auto-engineer-javascript-project-87/issues"
   },
-  "homepage": "https://github.com/Nadezhda18/qa-auto-engineer-javascript-project-87#readme"
+  "homepage": "https://github.com/Nadezhda18/qa-auto-engineer-javascript-project-87#readme",
+  "dependencies": {
+    "commander": "^14.0.0"
+  },
+  "devDependencies": {}
 }
